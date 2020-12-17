@@ -15,7 +15,7 @@ on:
 
 env:
   IMAGE_NAME: sls-alpine
-  ORG_NAME: exporo  
+  ORG_NAME: acabala  
 
 jobs:
   # Run tests.
